@@ -1,0 +1,147 @@
+{
+  
+    "products": [
+      {
+        "id": 0,
+        "title": "T-shirt 1",
+        "price": "52",
+        "image": "https://g.top4top.io/p_2584faepv1.png",
+        "type": "men",
+        "category":"t-shirt",
+        "disc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+      },
+      {
+        "id": 1,
+        "title": "T-shirt 2",
+        "price": "80",
+        "image": "https://l.top4top.io/p_2584u9rxl1.png",
+        "type": "men",
+        "category":"t-shirt",
+        "disc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+      },
+  
+      {
+        "id": 2,
+        "title": "T-shirt 3",
+        "price": "60",
+        "image": "https://a.top4top.io/p_2584zd3ws2.png",
+        "type": "men",
+        "category":"t-shirt",
+        "disc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+      },
+  
+      {
+        "id": 3,
+        "title": "T-shirt 4",
+        "price": "40",
+        "image": "https://b.top4top.io/p_2584ktngf3.png",
+        "type": "men",
+        "category":"t-shirt",
+        "disc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+      },
+      {
+        "id": 4,
+        "title": "dress 1",
+        "price": "$100",
+        "image": "https://k.top4top.io/p_2584rdj721.jpg",
+        "type": "women",
+        "category":"dress",
+        "disc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+      },
+      {
+        "id": 5,
+        "title": "dress 2",
+        "price": "200",
+        "image": "https://l.top4top.io/p_2584qqs4f2.jpg",
+        "type": "women",
+        "category":"dress",
+        "disc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+      },
+      {
+        "id": 6,
+        "title": "dress 3",
+        "price": "$82",
+        "image": "https://a.top4top.io/p_258411z223.jpg",
+        "type": "women",
+        "category":"dress",
+        "disc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+      },
+      {
+        "id": 7,
+        "title": "dress 4",
+        "price": "72",
+        "image": "https://a.top4top.io/p_258411z223.jpg",
+        "type": "women",
+        "category":"dress",
+        "disc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+      },
+      {
+        "id": 8,
+        "title": "shoes 2",
+        "price": "50",
+        "image": "https://i.top4top.io/p_2584w6f2b2.jpg",
+        "type": "men",
+        "category":"shoes",
+        "disc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+      },
+      {
+        "id": 9,
+        "title": "shoes 3",
+        "price": "32",
+        "image": "https://j.top4top.io/p_2584iquw63.jpg",
+        "type": "men",
+        "category":"shoes",
+        "disc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+      },
+      {
+        "id": 10,
+        "title": "shoes 4",
+        "price": "30",
+        "image": "https://k.top4top.io/p_25848dprn4.jpg",
+        "type": "men",
+        "category":"shoes",
+        "disc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+      },
+      {
+        "id": 11,
+        "title": "Watch 4",
+        "price": "62",
+        "image": "https://i.top4top.io/p_2584n58064.png",
+        "type": "men",
+        "category":"watch",
+        "disc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+      
+      },
+  
+      {
+        "id": 12,
+        "title": "Watch 1",
+        "price": "62",
+        "image": "https://f.top4top.io/p_2584pi1461.png",
+        "type": "women",
+        "category":"watch",
+        "disc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+      },
+      {
+        "id": 13,
+        "title": "Watch 2",
+        "price": "62",
+        "image": "https://g.top4top.io/p_2584247sc2.png",
+        "type": "men",
+        "category":"watch",
+        "disc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+      },
+      {
+        "id": 14,
+        "title": "Watch 3",
+        "price": "42",
+        "image": "https://g.top4top.io/p_2584j8d7d1.png",
+        "type": "women",
+        "category":"watch",
+        "disc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard"
+      }
+  
+    ]
+  
+  }
+  
