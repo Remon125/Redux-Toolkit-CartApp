@@ -1,0 +1,22 @@
+.popup {
+  background: #f34d1a;
+  padding: 10px 25px;
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  width: fit-content;
+  border-radius: 5px;
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+  text-transform: uppercase;
+  z-index: 1;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.5s;
+}
+
+.popup.active {
+  opacity: 1;
+  visibility: visible;
+}
